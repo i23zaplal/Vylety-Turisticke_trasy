@@ -1,0 +1,13 @@
+body { font-family: 'Segoe UI', sans-serif; background: #f0f2f5; margin: 0; padding: 20px; color: #333; }
+.container { max-width: 800px; margin: 0 auto; }
+nav { background: #1a508b; padding: 15px; border-radius: 8px; margin-bottom: 20px; }
+nav a { color: white; text-decoration: none; font-weight: bold; margin-right: 15px; }
+form { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 20px; }
+input, select, button { padding: 10px; margin: 10px 0; width: 100%; box-sizing: border-box; border: 1px solid #ddd; border-radius: 5px; }
+button { background: #28a745; color: white; border: none; cursor: pointer; font-weight: bold; }
+button:hover { background: #218838; }
+.karta { background: white; padding: 15px; margin-bottom: 10px; border-radius: 8px; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+.btn-upravit { color: #007bff; text-decoration: none; margin-right: 10px; font-size: 0.9em; }
+.btn-smazat { color: #dc3545; text-decoration: none; font-size: 0.9em; }
+.filter-form { display: flex; gap: 10px; align-items: center; }
+.filter-form input, .filter-form select, .filter-form button { width: auto; flex-grow: 1; }

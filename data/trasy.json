@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "nazev": "Sněžka přes Obří důl",
+    "delka": 14,
+    "narocnost": "těžká",
+    "stav": "hotovo"
+  },
+  {
+    "id": "2",
+    "nazev": "Okruh kolem Černého jezera",
+    "delka": 6,
+    "narocnost": "lehká",
+    "stav": "plánováno"
+  }
+]
